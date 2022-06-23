@@ -1,0 +1,35 @@
+#srch{
+    height: 40px;
+    width: 120px;
+    display: block;
+    
+    color: rgb(65, 170, 135);
+    margin-top: 50px;
+    margin-bottom: 15px;
+    margin-left: 50px;
+    font-size: 20px;
+    border-radius: 20px;
+    padding: 5px 30px 5px 30px;
+    border: 2px solid rgb(65, 170, 135);
+    font font-weight: 800;
+}
+#pls{
+    background-color: rgb(74, 213, 167);
+    height: 40px;
+    width: 40px;
+    color: white;
+    margin-left: 50px;
+    border-radius: 50%;
+    font-size: 20px;
+    border: none;
+    
+}
+#crt-acc{
+    background-color: #2b78e4;
+    color: white;
+    margin-left: 50px;
+    margin-top: 15px;
+    font-size: 20px;
+    box-shadow: 2px 2px 2px 2px black;
+
+}
