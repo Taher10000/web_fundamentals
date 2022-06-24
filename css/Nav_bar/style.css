@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.nav{
+    height: 100px;
+    display: flex;
+    width: 900px;
+    background-color: #333333;
+    color: white;
+    justify-content: space-between;
+    padding: 15px;
+    align-items: center;
+}
+.nav-title{
+   
+}
+.nav-links{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;  
+    list-style-type: none;
+    align-items: center;
+   
+}
+.btn{
+    height: 30px;
+    width: 80px;
+    background-color: #12A3B8;
+    color: white;
+    box-shadow: 5px 5px black;
+    font-size: 15px;
+}
+a{
+    color: white;
+}
