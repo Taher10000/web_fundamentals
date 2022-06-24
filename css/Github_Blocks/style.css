@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    color: #474866;
+    font-size: 40px;
+}
+
+img{
+    height: 200px;
+
+}
+.octo{
+    height: 240px;
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#box1{
+    background-color: #5BC5FD;
+}
+#box2{
+    background-color: #D7A5B4;
+    justify-content: space-evenly;
+}
+#box3{
+    background-color: beige;
+}
+.ref{
+    text-align: center;
+    
+}
